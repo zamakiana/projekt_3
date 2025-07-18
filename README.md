@@ -15,8 +15,9 @@ python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnu
 
 Prubeh stahovani:
 ```
-Stahuji data pro Mělník
-Ukládám do souboru: vysledky_melnik.csv
+--------------------------------------------------
+Stahuji data pro okres Mělník v kraji Středočeský kraj
+Ukládám do souboru vysledky_melnik.csv
 Ukončuji zápis do vysledky_melnik.csv
 ```
 Castecny vystup:
